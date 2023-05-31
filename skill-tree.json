@@ -1,0 +1,11 @@
+{ 
+    "name":"Fluffy",
+    "description":"Here begins your journey with your new bestfriend",
+    "icon":"img/icons/fluffy.png",
+    "children":[
+        {"name":"More Than a Spell?",
+        "description":"Fluffy has always been there it's just now that you've \n that you've been able to give him a physical form thru Arcane Magic \n He's more than a spell isn't he? \n All Fluffy's stats increase by 1",
+        "icon":"img/icons/fluffy.png",
+        "children":[]}
+        ]
+}
